@@ -24,7 +24,7 @@
 <p align="center">
 <a href="https://instagram.com/_abd1lazov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abd1lazov" height="30" width="40" /></a>
 <a href="https://t.me/MRX_111" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="Abdilazov" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/AbdilazovAbdykadyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Iskhak Suranov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdilazov-abdykadyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Iskhak Suranov" height="30" width="40" /></a>
 
 </details>
 

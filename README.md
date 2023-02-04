@@ -39,9 +39,8 @@
   
 <details open>
 <summary>Milestone</summary>
-<p align="center"><img src="https://leetcard.jacoblin.cool/isko21?animation=true"></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abd1lazov&show_icons=true&locale=en&layout=compact" alt="Abdilazov" /></p>
-
+ <p align="center"><img src="https://leetcard.jacoblin.cool/isko21?animation=true"></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abd1lazov&show_icons=true&hide_border=true" alt="animated" />
 </p>

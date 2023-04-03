@@ -1,49 +1,29 @@
-<h1 align="center">Hi 👋, I'm Abdykadyr Abdilazov</h1>
-<h3 align="center">CS student 💻, and Mobile App Developer 📱</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abd1lazov&label=Profile%20views&color=0e75b6&style=flat" alt="isko21" /> </p>
+![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+<h1 align="center">Hi 👋, I'm Abdykadyr</h1>
+<h3 align="center">A passionate Android developer from Kyrgyzstan</h3>
 
-<details open>
-<summary>BIO</summary>
+<img align="right" alt=«Coding» width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently expanding my knowlege in CS 
+- 🔭 I’m currently working on **QuizGame**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Isko21)
+- 👨‍💻 All of my projects are available at [https://github.com/abd1lazov](https://github.com/abd1lazov)
 
-- 💬 Ask me about anything that I can answer
+- 💬 Ask me about **Android**
 
-- 📫 How to reach me aabdilazov90@gmail.com
+- 📫 How to reach me **aabdilazov90@gmail.com**
 
-- ⚡️ Fun facts I love playing football ⚽️, and swimming 🏊‍♂️
+- ⚡ Fun fact **I love playing football ⚽️, and swimming 🏊‍♂️**
 
-
-</details>
- 
-<details open>
-<summary>Contact</summary>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://t.me/MRX_111" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" alt="Abdilazov" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdilazov-abdykadyr-363059254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Iskhak Suranov" height="30" width="40" /></a>
-
-</details>
-
-<details open>
-<summary>Skills</summary>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.java.com/en/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" alt="kotlin" width="40" height="40"/> </a>
-</p>
-</details>
-  
-<details open>
-<summary>Milestone</summary>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abd1lazov&show_icons=true&locale=en&layout=compact" alt="Abdilazov" /></p>
- <p align="center"><img src="https://leetcard.jacoblin.cool/abd1lazov?animation=true"></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abd1lazov&show_icons=true&hide_border=true" alt="animated" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdilazov abdykadyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdilazov abdykadyr" height="30" width="40" /></a>
+<a href="https://instagram.com/_abd1lazov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abd1lazov" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abd1lazov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abd1lazov" height="30" width="40" /></a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abd1lazov&" alt="Abdilazov" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abd1lazov" alt="abd1lazov" /></a> </p>
 
-</details>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abd1lazov&" alt="abd1lazov" /></p>

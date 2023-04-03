@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **QuizGame**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abd1lazov](https://github.com/abd1lazov)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/abd1lazov)
 
 - 💬 Ask me about **Android**
 

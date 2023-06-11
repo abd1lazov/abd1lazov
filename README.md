@@ -29,3 +29,5 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abd1lazov&" alt="abd1lazov" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd1lazov&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>

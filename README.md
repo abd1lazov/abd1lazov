@@ -1,15 +1,15 @@
 ![MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Abdykadyr</h1>
-<h3 align="center">A passionate Android developer from Kyrgyzstan</h3>
+<h3 align="center">A passionate backend developer from Kyrgyzstan</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abd1lazov&label=Profile%20views&color=0e75b6&style=flat" alt="abd1lazov" /> </p>
 
 <img align="right" alt=«Coding» width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- 🔭 I’m currently working on [Notes](https://github.com/abd1lazov/Notes)
+- 🔭 I’m currently working on
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/abd1lazov)
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Java, Kotlin**
 
 - 📫 How to reach me **aabdilazov90@gmail.com**
 
